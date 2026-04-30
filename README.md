@@ -62,9 +62,8 @@
 
 ## 🙏 حمایت
 
-اگه این ابزار به کارت اومد، خوشحال می‌شم با **زدن ستاره ⭐** روی ریپازیتوری اصلی ازم حمایت کنی.
+اگه این ابزار به کارت اومد، خوشحال می‌شم با **زدن ستاره ⭐** ازم حمایت کنی.
 
-[![Star on GitHub](https://img.shields.io/github/stars/Kurdeus/Meli-Action?style=social)](https://github.com/Kurdeus/Meli-Action)
 
 ---
 
